@@ -1,0 +1,1 @@
+pyinstaller --onefile split_kml_file.py
